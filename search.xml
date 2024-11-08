@@ -1451,7 +1451,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 
 <h1 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h1><p>后来想在博客上加相册的时候，才发现图床的问题。</p>
 <p>之前用的阿里云oss对象存储，大概一年几块钱。网站上的图片也全部是上传的这个图床上。后来收到了账号欠费短信才发现，外网访问图片是要额外付费的，下行流量包一年的成本将近400块。于是后面重新换了<code>github</code>做图床，并使用<code>jsdelivr</code>加速。<code>github</code>不太适合大文件的存储，所以另外在各种免费的图床里挑选了<code>Z4A</code>，<code>Z4A</code>单个文件的存储大小上限为60MB。(另外尝试过<code>smms</code>，但是<code>smms</code>和<code>picgo</code>连接经常断，上传很不稳定。)</p>
-<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p><a class="link" href="https://kilig1210.github.io/Myblog/">https://kilig1210.github.io/Myblog/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p><a class="link" href="https://kilig1210.github.io/">https://kilig1210.github.io/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <ul>
 <li>里面好多页面都弄完，打算以后厌学的时候慢慢加。</li>
 </ul>
